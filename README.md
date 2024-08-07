@@ -1,5 +1,5 @@
 # student_registration
-This student registration with register, login and logout pages is created using HTML, CSS, PHP, MySQL as practice.
+This student registration with register, login and logout pages is created using PHP, HTML & CSS as practice.
 
 
 <img width="960" alt="register form" src="https://github.com/user-attachments/assets/ef981eed-8d76-4764-8dbf-4e6de5287e47">
